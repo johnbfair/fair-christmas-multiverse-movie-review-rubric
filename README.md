@@ -8,16 +8,16 @@ This repository contains the canonical scoring system used to review,
 roast, and lovingly catalog Christmas movies across the **Fair Christmas Multiverse™**.
 
 ## What lives here
-- `rubric/Fair-Christmas-Movie-Rubric.md`  
+- `rubric/Fair Christmas Movie Review Rubric {version}.md`  
   → The current canonical rubric (always up to date)
 
 - `rubric/versions/`  
   → Frozen historical versions (e.g. v5.1)
 
-- `templates/`  
+- `printable templates/`  
   → Blank scorecards and completed-review templates
 
-- `reviews/`  
+- `reviews/{Year}`  
   → One markdown file per movie, per year
 
 ## Philosophy
